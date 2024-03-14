@@ -1,0 +1,12 @@
+# ninja log v5
+1	108	1710370300103822377	CMakeFiles/Practica_3_POO.dir/Utils.cpp.o	9f8ec4e69857f40f
+0	435	1710370300427001300	CMakeFiles/Practica_3_POO.dir/main.cpp.o	50bf82f44d9cfc87
+3	244	1710370496297410095	CMakeFiles/Practica_3_POO.dir/Enemy/Enemy.cpp.o	fb69f8e6aec7e7f4
+2	245	1710370496298521751	CMakeFiles/Practica_3_POO.dir/Player/Player.cpp.o	f0ac3801cee11f9
+3	247	1710370496300880520	CMakeFiles/Practica_3_POO.dir/Character/Character.cpp.o	ce03d3882d6c6e85
+2	319	1710370496370207675	CMakeFiles/Practica_3_POO.dir/main.cpp.o	50bf82f44d9cfc87
+319	431	1710370496483920063	Practica_3_POO	c6b15fb7eb095d8e
+2	388	1710370551563833658	CMakeFiles/Practica_3_POO.dir/main.cpp.o	50bf82f44d9cfc87
+388	432	1710370551610621117	Practica_3_POO	c6b15fb7eb095d8e
+7	457	1710370676769740486	CMakeFiles/Practica_3_POO.dir/main.cpp.o	50bf82f44d9cfc87
+457	495	1710370676808356359	Practica_3_POO	c6b15fb7eb095d8e
